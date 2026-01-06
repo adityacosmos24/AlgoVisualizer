@@ -6,7 +6,7 @@ import GraphPage from "./pages/graph/GraphPage";
 import Homepage from "./pages/Homepage.jsx";
 import DSPage from "./pages/dataStructure/datastructurePage.jsx"
 import DynamicProgrammingPage from "./pages/dynamic-programming/DyanmicProgrammingPage.jsx";
-import Searchingpage from "./pages/searching/searchingPage";
+import Searchingpage from "./pages/searching/SearchingPage";
 import RecursionPage from "./pages/Recursion/RecursionPage";
 import Treepage from "./pages/Tree/Treepage";
 import SlidingWindowPage from "./pages/sliding-window/SlidingWindowPage";
